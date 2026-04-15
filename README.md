@@ -84,12 +84,12 @@ Measures the overhead of rehashing when the initial allocation is insufficient f
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 * `src/hashtable/HashTable.java`: Core generic data structure (Separate chaining, dynamic rehashing).
 * `src/hashtable/LibraryCatalog.java`: Application layer (Book records and business logic).
 * `src/hashtable/ExperimentRunner.java`: Benchmarking suite (3 automated experiments).
 
-## ⚙️ Build and Run
+## ⚙ Build and Run
 1.  **Compile the source code:**
     ```bash
     javac src/hashtable/*.java
