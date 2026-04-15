@@ -89,7 +89,7 @@ Measures the overhead of rehashing when the initial allocation is insufficient f
 * `src/hashtable/LibraryCatalog.java`: Application layer (Book records and business logic).
 * `src/hashtable/ExperimentRunner.java`: Benchmarking suite (3 automated experiments).
 
-## ⚙ Build and Run
+##  Build and Run
 1.  **Compile the source code:**
     ```bash
     javac src/hashtable/*.java
@@ -98,8 +98,3 @@ Measures the overhead of rehashing when the initial allocation is insufficient f
     ```bash
     java -cp src hashtable.ExperimentRunner
     ```
-
----
-**Author:** [Your Name]
-**Course:** COMP47500 Advanced Data Structures
-**Date:** April 2026
